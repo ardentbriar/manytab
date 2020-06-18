@@ -1,6 +1,6 @@
 # manytab
 
-Clean multiline tabs for Atom.
+Clean multiline tabs in Atom.
 
 Supports the [Atom][atom], [One][one], [Material][material], [Unity][unity],
 [Nucleus][nucleus], and [Seti][seti] themes.
