@@ -2,6 +2,8 @@
 
 Clean multiline tabs in Atom.
 
+Tabs automatically size to file name.
+
 Supports the [Atom][atom], [One][one], [Material][material], [Unity][unity],
 [Nucleus][nucleus], and [Seti][seti] themes.
 
