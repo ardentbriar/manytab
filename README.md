@@ -14,14 +14,21 @@ Supports the [Atom][atom], [One][one], [Material][material], [Unity][unity],
 [nucleus]: https://atom.io/themes/nucleus-dark-ui
 [seti]: https://atom.io/themes/seti-ui
 
-![Demonstration with Atom theme](img/atom.png "Atom theme")
+![Demonstration with Atom theme][demo-atom]
 
-![Demonstration with One theme](img/one.png "One theme")
+![Demonstration with One theme][demo-one]
 
-![Demonstration with Material theme](img/material.png "Material theme")
+![Demonstration with Material theme][demo-material]
 
-![Demonstration with Unity theme](img/unity.png "Unity theme")
+![Demonstration with Unity theme][demo-unity]
 
-![Demonstration with Nucleus theme](img/nucleus.png "Nucleus theme")
+![Demonstration with Nucleus theme][demo-nucleus]
 
-![Demonstration with Seti theme](img/seti.png "Seti theme")
+![Demonstration with Seti theme][demo-seti]
+
+[demo-atom]: https://raw.githubusercontent.com/ardentbriar/manytab/master/img/atom.png "Atom theme"
+[demo-one]: https://raw.githubusercontent.com/ardentbriar/manytab/master/img/one.png "One theme"
+[demo-material]: https://raw.githubusercontent.com/ardentbriar/manytab/master/img/material.png "Material theme"
+[demo-unity]: https://raw.githubusercontent.com/ardentbriar/manytab/master/img/unity.png "Unity theme"
+[demo-nucleus]: https://raw.githubusercontent.com/ardentbriar/manytab/master/img/nucleus.png "Nucleus theme"
+[demo-seti]: https://raw.githubusercontent.com/ardentbriar/manytab/master/img/seti.png "Seti theme"
