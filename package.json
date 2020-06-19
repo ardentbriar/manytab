@@ -3,8 +3,8 @@
     "version": "0.1.0-dev",
     "description": "Clean multiline tabs",
     "license": "SEE LICENSE IN LICENSE",
-    "repository": "https://gitlab.com/ardentbriar/manytab",
-    "bugs": "https://gitlab.com/ardentbriar/manytab/-/issues",
+    "repository": "https://github.com/ardentbriar/manytab",
+    "bugs": "https://github.com/ardentbriar/manytab/issues",
     "engines": {"atom": "1"},
     "keywords": ["tab", "multiline", "multirow"],
     "styles": ["tab.less"]
